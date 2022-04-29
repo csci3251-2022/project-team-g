@@ -3,7 +3,7 @@
 
 int main() {
   for (int i=1; i<=5; i++){
-    printf("Hello World x%d, We are Team G!!", i);
+    printf("Hello World x%d, We are Team G!!\n", i);
   }
   
   return 0;
