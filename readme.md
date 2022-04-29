@@ -25,6 +25,7 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 // Write some code here
 {% include_relative code.c %}
 ```
+![example workflow](https://github.com/csci3251-2022/project-team-g/actions/workflows/c-cpp.yml/badge.svg)
 
 # Contributor
 
