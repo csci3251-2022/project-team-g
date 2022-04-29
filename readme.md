@@ -34,4 +34,4 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [SteveNoobPlus](https://github.com/SteveNoobPlus) | Yu-Shing CHENG | 1155158488 | Task 2 |
 | [JasonWongin](https://github.com/JasonWongin) | Lap-Yin WONG | 1155147798 | Task 3 |
 | [marcoao2001](https://github.com/marcoao2001) | Chon-Long AO | 1155135754 | Task 4 |
-| [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task ? |
+| [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
