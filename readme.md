@@ -21,7 +21,7 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 
 # Code
 
-```
+```c
 // Write some code here
 {% include_relative code.c %}
 ```
