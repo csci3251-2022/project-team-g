@@ -11,6 +11,8 @@ This area of content is not part of the Task 3, Delete at the final stage
 Completed:
 Task1
 Task2
+Task3
+Task4
 ```
 
 # Introduction
@@ -30,3 +32,4 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [EJ-L](https://github.com/EJ-L) | Eric John LI | 1155159116 | Task 1 |
 | [SteveNoobPlus](https://github.com/SteveNoobPlus) | Yu-Shing CHENG | 1155158488 | Task 2 |
 | [JasonWongin](https://github.com/JasonWongin) | Lap-Yin WONG | 1155147798 | Task 3 |
+| [marcoao2001](https://github.com/marcoao2001) | AO Chon Long | 1155135754 | Task 4 |
