@@ -23,6 +23,7 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 
 ```
 // Write some code here
+{% include_relative code.c %}
 ```
 
 # Contributor
