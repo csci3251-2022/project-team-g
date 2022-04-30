@@ -41,3 +41,5 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 {% for student in site.stu %}
 <div>{{ student }}</div>
 {% endfor %}
+
+{{ site.description }}
