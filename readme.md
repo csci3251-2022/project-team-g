@@ -38,8 +38,8 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [marcoao2001](https://github.com/marcoao2001) | Chon-Long AO | 1155135754 | Task 4 |
 | [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
 
-{% for student in site.stu %}
-<div>{{ student }}</div>
+{% for s in site.stu %}
+<div>&emsp;&raquo;<img src="{{s.image}}" />@{{ s.user }} ({{ s.name }})</div>
+<div>&emsp;&emsp;&raquo;{{ s.content | remove: '<p>' | remove: '</p>' }}</div>
+<br>
 {% endfor %}
-
-{{ site.description }}
