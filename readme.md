@@ -38,7 +38,7 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [marcoao2001](https://github.com/marcoao2001) | Chon-Long AO | 1155135754 | Task 4 |
 | [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
 
-{% for student in site.collaborations._stu %}
+{% for student in site.collections.stu %}
   <h2>{{ student.user }}</h2>
   <h2>{{ student.name }}</h2>
   <p>{{ student.content | markdownify }}</p>
