@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
+description: "This is an example website built while learning how to use Jekyll and GitHub Pages."
 collections:
   stu:
