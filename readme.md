@@ -39,5 +39,5 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
 
 {% for student in site.stu %}
-  <div>{{ student }}</div>
+<div>{{ student }}</div>
 {% endfor %}
