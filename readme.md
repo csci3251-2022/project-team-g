@@ -39,7 +39,8 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [JasonWongin](https://github.com/JasonWongin) | Lap-Yin WONG | 1155147798 | Task 3 |
 | [marcoao2001](https://github.com/marcoao2001) | Chon-Long AO | 1155135754 | Task 4 |
 | [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
-| [Jimmy-Li9912](https://github.com/Jimmy-Li9912) | LI Jingchen | 1155124512 | Task 6 |
+| [ixxsth](https://github.com/ixxsth) | Tsz-Him Iknos WONG | 1155124886 | Task 6 |
+| [Jimmy-Li9912](https://github.com/Jimmy-Li9912) | LI Jingchen | 1155124512 | Task 7 |
 
 {% for s in site.stu %}
 <div>&emsp;&raquo;<img src="{{s.image}}" />@{{ s.user }} ({{ s.name }})</div>
