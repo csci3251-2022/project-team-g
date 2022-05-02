@@ -21,6 +21,7 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [NovaTse](https://github.com/NovaTse) | Ka-Hei TSE | 1155159810 | Task 5 |
 | [ixxsth](https://github.com/ixxsth) | Tsz-Him Iknos WONG | 1155124886 | Task 6 |
 | [Jimmy-Li9912](https://github.com/Jimmy-Li9912) | LI Jingchen | 1155124512 | Task 7 |
+| [Larryinx](https://github.com/Larryinx) | LI Yinxi | 1155160255 | Task 8 |
 
 {% for s in site.stu %}
 <div>&emsp;&raquo;<img src="{{s.image}}" />@{{ s.user }} ({{ s.name }})</div>
