@@ -47,4 +47,4 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 <br>
 {% endfor %}
 
-Last modify: {site.time}
+Last modify: {% site.time %}
