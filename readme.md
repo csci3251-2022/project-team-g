@@ -22,6 +22,8 @@ This is Team G, and we are performing the project milestone 3 of CSCI3251. In th
 | [ixxsth](https://github.com/ixxsth) | Tsz-Him Iknos WONG | 1155124886 | Task 6 |
 | [Jimmy-Li9912](https://github.com/Jimmy-Li9912) | LI Jingchen | 1155124512 | Task 7 |
 
+reviewer: LI Yinxi | 1155160255 | 
+
 {% for s in site.stu %}
 <div>&emsp;&raquo;<img src="{{s.image}}" />@{{ s.user }} ({{ s.name }})</div>
 <div>&emsp;&emsp;&raquo;{{ s.content | remove: '<p>' | remove: '</p>' }}</div>
